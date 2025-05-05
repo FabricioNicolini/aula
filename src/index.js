@@ -1,5 +1,6 @@
+import React from "react";
 import Link from "next/link";
-import TarefaLista from "../components/TarefaLista";
+import TarefaLista from "./components/TarefaLista";
 
 export default function Home() {
   return (
